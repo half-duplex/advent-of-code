@@ -1,1 +1,3 @@
 input.txt
+*.py[co]
+__pycache__/
